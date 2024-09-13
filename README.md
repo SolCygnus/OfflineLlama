@@ -13,4 +13,6 @@ If using within a Virtual Machine on VBox or other Hypervisor software you must 
 Make sure to evaluate your Computers GPU VRAM prior to installing larger LLMS. The script will automatically attempt
 to install METAs latest llama, llama3.1:latest which is 8B. 
 
-____________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________
+
+Enjoy Version 1.0
