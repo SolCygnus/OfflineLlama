@@ -35,5 +35,5 @@ ollama pull llama2-uncensored
 sleep 2
 
 echo "Install Complete! ollama list in the command line will tell you whether the 2 llamas were successfully downloaded"
-echo "sudo docker ps will  show all active running dockers."
+echo "sudo docker ps will show all active running dockers."
 
