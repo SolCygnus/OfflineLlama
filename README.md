@@ -1,5 +1,5 @@
 # OfflineLlama
-Script for installing LLama with openweb-ui GUI in docker on Linux 
+Script for installing Llama with openweb-ui GUI in docker on Linux 
 
 _______________________________________________________________________________________________________________
 #NOTES
